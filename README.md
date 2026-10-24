@@ -2,7 +2,7 @@
 
 Uptime Kuma is a fancy, self-hosted monitoring tool — watch your websites, APIs, game servers, and TCP/DNS endpoints from one dashboard, with status pages and 90+ notification integrations (Telegram, Discord, Slack, email, webhooks, and more).
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/uptime-kuma?utm_campaign=uptime-kuma)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/uptime-kuma-7?utm_campaign=uptime-kuma)
 
 ## Deploy and Host
 

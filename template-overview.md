@@ -1,6 +1,6 @@
 # Deploy and Host
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/uptime-kuma?utm_campaign=uptime-kuma)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/uptime-kuma-7?utm_campaign=uptime-kuma)
 
 Uptime Kuma is a fancy, self-hosted monitoring tool. Deploy it on Railway in one click — no configuration, no database to wire up. Railway builds the pinned upstream image, attaches a persistent volume, and hands you a public domain. Open it, create your admin account, and start monitoring.
 
